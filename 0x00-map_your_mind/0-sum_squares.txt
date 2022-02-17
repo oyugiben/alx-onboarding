@@ -1,0 +1,7 @@
+\\user input statements. Inputs saved to variables number_0, number_1...number_n
+
+\\variables are squared
+
+\\squared variables added (loop)
+
+\\Result written

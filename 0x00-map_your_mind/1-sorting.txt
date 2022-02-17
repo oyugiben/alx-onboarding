@@ -1,0 +1,7 @@
+\\Prompt user input for three numbers.
+
+\\user input saved to variables x, y, z
+
+\\sort function with x, y, z as arguments
+
+\\write sorted numbers

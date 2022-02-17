@@ -1,0 +1,7 @@
+\\sum variable initialized
+
+\\User input while loop. User input variable updated to match every entry. 
+\\While input variable is  greater than 0
+	\\sum variable updated by adding variable to user input
+	\\result printed
+	\\end of loop
